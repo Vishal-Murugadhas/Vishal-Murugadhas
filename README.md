@@ -76,8 +76,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vishal-Murugadhas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal-Murugadhas&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Vishal-Murugadhas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Vishal-Murugadhas&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <p align="center">
@@ -91,6 +91,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Vishal-Murugadhas&theme=tokyonight&column=7&margin-w=15&margin-h=15" />
 </p>
+
+<!-- If the activity-graph or trophy cards above show broken images too, those services (also free/shared)
+     are likely rate-limited at the moment. They usually recover within a few hours to a day.
+     If they stay broken long-term, self-hosting is the permanent fix — see the note below. -->
 
 ---
 
